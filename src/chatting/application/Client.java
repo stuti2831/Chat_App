@@ -78,7 +78,7 @@ public class Client implements ActionListener{
         p1.add(morevert);
         
         
-        JLabel name=new JLabel("Abhay");
+        JLabel name=new JLabel("Vipul");
         name.setBounds(110,15,100,18);
         name.setForeground(Color.WHITE);
         name.setFont(new Font("SAN_SERIF",Font.BOLD,18));
